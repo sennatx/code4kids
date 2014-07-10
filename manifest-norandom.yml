@@ -1,0 +1,10 @@
+---
+applications:
+- name: NodeJS_Simple_2
+  framework: node
+  runtime: node08
+  memory: 64M
+  instances: 1
+  host: NodeJS_Simple_2
+  path: .     
+  command: node app.js
