@@ -1,4 +1,6 @@
-This is the second project in the “Node.js – So simple a kid can do it” article.  
+This is the second project in the “Build your first Node.js website Node.js" 
+article.  http://www.ibm.com/developerworks/library/wa-simplenode2-app/index.html
+
 This project is designed to add Express and formatted HTML pages to your application.   
 This is a node.js with express server, extended with a user count variable passed through to the HTML.  
 
